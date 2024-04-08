@@ -1,5 +1,5 @@
-![image](https://github.com/Likhith-24/VedaGPT/assets/132389441/cfc4c96c-0f79-4507-ad9b-7bdd1362962d)<p align="center">
-  <img src="https://fireflies.ai/blog/content/images/2022/12/What-is-GPT.jpg" alt="Project Image" width="400" height="300">
+<p align="center">
+  <img src="https://fireflies.ai/blog/content/images/2022/12/What-is-GPT.jpg" alt="Project Image" width="500" height="300">
 </p>
 
 <h1 align="center">📚 VedaGPT (VedaGyanaPrakashaTatva): Your Intelligent Text Companion 🤖</h1>
